@@ -1,0 +1,19 @@
+Time=0    Count=0000
+
+Time=10   Count=0001
+
+Time=20   Count=0011
+
+Time=30   Count=0111
+
+Time=40   Count=1111
+
+Time=50   Count=1110
+
+Time=60   Count=1100
+
+Time=70   Count=1000
+
+Time=80   Count=0000
+
+Time=90   Count=0001
